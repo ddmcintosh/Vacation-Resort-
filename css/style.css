@@ -1,3 +1,21 @@
-body {
+
+main {
     background-color: pink;
+}
+
+
+
+
+
+/* overnightstay page*/
+img {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin: 30px;
+}
+
+
+
+#reservationContainer {
+    padding-bottom: 20px;
 }
